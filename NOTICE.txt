@@ -1,0 +1,33 @@
+The following files have been modified
+as of 2024-04-01:
+---------------------------------------
+
+Doom/stm32doom/src/chocodoom/d_main.c
+Doom/stm32doom/src/chocodoom/am_map.c
+Doom/stm32doom/src/chocodoom/w_wad.c
+Doom/stm32doom/src/chocodoom/i_system.c
+Doom/stm32doom/src/chocodoom/i_scale.c
+Doom/stm32doom/src/chocodoom/m_menu.c
+Doom/stm32doom/src/chocodoom/z_zone.h
+Doom/stm32doom/src/chocodoom/w_checksum.c
+Doom/stm32doom/src/chocodoom/wi_stuff.c
+Doom/stm32doom/src/chocodoom/p_saveg.c
+Doom/stm32doom/src/chocodoom/i_timer.c
+Doom/stm32doom/src/chocodoom/deh_str.h
+Doom/stm32doom/src/chocodoom/sha1.c
+Doom/stm32doom/src/chocodoom/d_englsh.h
+Doom/stm32doom/src/chocodoom/m_menu.h
+Doom/stm32doom/src/chocodoom/doomtype.h
+Doom/stm32doom/src/chocodoom/g_game.c
+Doom/stm32doom/src/chocodoom/m_random.c
+Doom/stm32doom/src/chocodoom/p_doors.c
+Doom/stm32doom/src/chocodoom/m_misc.c
+Doom/stm32doom/src/chocodoom/sha1.h
+Doom/stm32doom/src/chocodoom/i_video.c
+Doom/stm32doom/src/chocodoom/i_main.c
+Doom/stm32doom/src/chocodoom/p_spec.c
+Doom/stm32doom/src/chocodoom/p_map.c
+Doom/stm32doom/src/chocodoom/p_setup.c
+Doom/stm32doom/src/chocodoom/d_net.c
+Doom/stm32doom/src/chocodoom/m_config.c
+Doom/stm32doom/src/chocodoom/z_zone.c
